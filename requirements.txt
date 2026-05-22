@@ -6,4 +6,4 @@ langchain-groq
 faiss-cpu
 sentence-transformers
 duckduckgo-search
-beautifulsoup4.              
+beautifulsoup4             
